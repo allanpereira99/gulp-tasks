@@ -1,0 +1,31 @@
+{
+  "name": "gulp-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanpereira99/gulp-tasks.git"
+  },
+  "author": "Allan Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allanpereira99/gulp-tasks/issues"
+  },
+  "homepage": "https://github.com/allanpereira99/gulp-tasks#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.17.10",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglifycss": "^1.1.0",
+    "gulp-watch": "^5.0.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
